@@ -8,7 +8,7 @@ designed. Please note this example uses and requires Java 8 to work.
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
 
-Running the HI THERE example from the command line
+Running the HI THERE example from the command line to 30th september
 -------------------
 ```
 $ mvn jetty:run
